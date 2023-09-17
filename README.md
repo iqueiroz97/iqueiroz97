@@ -1,4 +1,4 @@
-### Hi there, welcome 🤓
+### Hi there. Welcome 🤓
 
 - ☕ I’m currently learning Java
 - 🌐 Eventually I hope to collaborate on some open source projects
