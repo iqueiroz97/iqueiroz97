@@ -1,8 +1,8 @@
 ### Hi there. Welcome 🤓
 
-- ☕ I’m currently learning Java
+- ☕️ I’m currently learning Java
 - 🌐 Eventually I hope to collaborate on some open source projects
-- 🐧 Linux user all the way (Btw, I Don´t use Arch 😀)
+- ⌘ Unix user all the way (Btw, I Don´t use Arch 😀)
 
 <!--
 **iqueiroz97/iqueiroz97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
